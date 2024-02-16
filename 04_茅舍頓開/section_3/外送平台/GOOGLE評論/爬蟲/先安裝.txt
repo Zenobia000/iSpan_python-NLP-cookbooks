@@ -1,2 +1,0 @@
-一樣切成很多份下去爬的
-pip install --upgrade selenium
