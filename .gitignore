@@ -1,0 +1,14 @@
+*.csv
+*.excel
+*.xlsx
+*.xls
+.DS_Store
+*.json
+*.log
+./__pycache__/
+.ipynb_checkpoints/
+*-checkpoint.py
+*-checkpoint.ipynb
+__pycache__/
+*.pyc
+*.gz
