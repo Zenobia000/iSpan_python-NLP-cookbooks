@@ -1,0 +1,21 @@
+# Ignore directories created by the download script
+/conll2003/
+/datasets/
+/food_delivery/
+/glove/
+/huggingface_cache/
+/keras_datasets/
+/movielens/
+/sms_spam/
+/twitter_sentiment/
+
+# Ignore large downloaded files
+*.zip
+*.npz
+*.gz
+*.tar
+*.tgz
+
+# Keep the README and this gitignore file
+!README.md
+!.gitignore
