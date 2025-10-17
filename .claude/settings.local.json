@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Bash(for dir in \"D:\\python_workspace\\project_nlp\\iSpan_python-NLP-cookbooks_v2\\課程資料\"/*/)",
+      "Bash(done)",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
